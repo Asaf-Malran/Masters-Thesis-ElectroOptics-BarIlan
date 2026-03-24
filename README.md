@@ -19,12 +19,13 @@ We generate the ring shape of the pump beam using a Vortex Phase Plate (VPP). Th
 
 ## Repository Contents
 * `Asaf_Malran_MSc_Thesis.pdf`: The full Master's Thesis document (Hebrew with English Abstract).
-* `xy_scan_Power_Basler.m`: MATLAB script used for controlling the experimental setup and performing the scanning of the resolution targets.
-* `analysis_xy_scan.m`: MATLAB script used for analyzing the scanned results and extracting the contrast profiles.
+* `xy_scan_Power_Basler.m`: MATLAB script used for controlling the experimental setup and performing the scanning of the resolution targets (Data Acquisition).
+* `analysis_xy_scan.m`: MATLAB script used for analyzing the scanned results and extracting the contrast profiles (Data Analysis).
 
 ## Experimental Setup and Results
 
 ### 1. The Optical System
+Schematic diagram of the developed experimental setup.
 ![Optical Setup](optical_setup.jpg)
 
 ### 2. Probe Beam Sharpening (The PDE Effect)
