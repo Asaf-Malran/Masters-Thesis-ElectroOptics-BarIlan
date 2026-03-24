@@ -26,14 +26,14 @@ We generate the ring shape of the pump beam using a Vortex Phase Plate (VPP). Th
 
 ### 1. The Optical System
 Schematic diagram of the developed experimental setup.
-![Optical Setup](optical_setup.jpg)
+![Optical Setup](optical_setup.png)
 
 ### 2. Probe Beam Sharpening (The PDE Effect)
 Comparison of the probe beam profile without the pump beam (left) and focused by the donut-shaped pump beam (right).
 ![Probe Beam Profile](probe_beam_profile.png)
 
 Cross-section line profile showing the reduction of the focal spot size from 2.77µm to 0.96µm.
-![Probe Line Profile](probe_line_profile.jpg)
+![Probe Line Profile](probe_line_profile.png)
 
 ### 3. Super-Resolution Scanning of a 500nm Target
 1D transmission profile comparing the scan with the pump off (gray) and pump on (blue), demonstrating the resolution of 500nm features.
